@@ -1,0 +1,34 @@
+/* Estilo geral para a página */
+body {
+    background-color: #40E0D0; /* Azul turquesa */
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo do container da página */
+.container {
+    margin-top: 50px;
+}
+
+/* Estilo para o título */
+h1 {
+    color: #fff; /* Cor branca */
+    font-size: 2em;
+}
+
+/* Estilo da imagem da agenda */
+.agenda-img {
+    width: 200px;
+    height: auto;
+    margin-top: 20px;
+}
+
+/* Estilo para o texto */
+p {
+    color: #fff; /* Cor branca */
+    font-size: 1.2em;
+    margin-top: 20px;
+    padding: 0 20px;
+}
